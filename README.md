@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mo0n" target="blank"><img src="https://img.shields.io/twitter/follow/mo0n?logo=twitter&style=for-the-badge" alt="mo0n" /></a> </p>
 
-- 🌱 I’m currently learning **Spring MVC, Spring security, spring boot restfulAPI and spring data JPA, spring data mirage, hibernate**
+- 🌱 I’m currently learning **Spring MVC, Spring security, spring boot restfulAPI, spring data JPA, spring data mirage, JDBC**
 
 - 🤝 I’m looking for help with **all the colleagues in the environment I work in**
 
