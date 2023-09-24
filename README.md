@@ -1,4 +1,7 @@
 <h1 align="center">Hi there👋, I'm Letubac <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+SKILLS
+
+Backend: Java Core / Java EE / Spring (MVC, Boot, Data, Security) / Hibernate / SQL: SQL-Server, Oracle / JUnit / Mockito / Thymeleaf
 <h3 align="center">A passionate back-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo0n&label=Profile%20views&color=0e75b6&style=flat" alt="mo0n" /> </p>
