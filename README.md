@@ -6,8 +6,6 @@ Backend: Java Core / Java EE / Spring (MVC, Boot, Data, Security) / Hibernate / 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo0n&label=Profile%20views&color=0e75b6&style=flat" alt="mo0n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo0n&theme=juicyfresh" alt="mo0n" /></a> </p>
-
 - 🌱 I’m currently learning **Spring MVC, Spring security, spring boot restfulAPI and spring data JPA, spring data mirage, hibernate**
 
 - 🤝 I’m looking for help with **all the colleagues in the environment I work in**
